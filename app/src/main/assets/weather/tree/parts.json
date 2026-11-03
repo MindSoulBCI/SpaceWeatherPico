@@ -1,0 +1,79 @@
+[
+  {
+    "file": "weather/tree/leaf_0.glb",
+    "leaf": true,
+    "position": [
+      0.032920800149440765,
+      1.7657033205032349,
+      -0.3382050096988678
+    ],
+    "source": "Leaf_01_LOD1",
+    "vertices": 516
+  },
+  {
+    "file": "weather/tree/leaf_1.glb",
+    "leaf": true,
+    "position": [
+      0.6760131120681763,
+      1.5293132066726685,
+      -0.219017893075943
+    ],
+    "source": "Leaf_02_LOD1",
+    "vertices": 600
+  },
+  {
+    "file": "weather/tree/leaf_2.glb",
+    "leaf": true,
+    "position": [
+      -0.5948307514190674,
+      1.6934460401535034,
+      0.21685408055782318
+    ],
+    "source": "Leaf_03_LOD1",
+    "vertices": 456
+  },
+  {
+    "file": "weather/tree/leaf_3.glb",
+    "leaf": true,
+    "position": [
+      -0.2922181487083435,
+      2.087348699569702,
+      0.10528171807527542
+    ],
+    "source": "Leaf_04_LOD1",
+    "vertices": 516
+  },
+  {
+    "file": "weather/tree/leaf_4.glb",
+    "leaf": true,
+    "position": [
+      0.22385868430137634,
+      1.8539741039276123,
+      0.4297342896461487
+    ],
+    "source": "Leaf_05_LOD1",
+    "vertices": 516
+  },
+  {
+    "file": "weather/tree/leaf_5.glb",
+    "leaf": true,
+    "position": [
+      0.07139639556407928,
+      2.0597946643829346,
+      0.2129746973514557
+    ],
+    "source": "Leaf_06_LOD1",
+    "vertices": 420
+  },
+  {
+    "file": "weather/tree/trunk.glb",
+    "leaf": false,
+    "position": [
+      0.0,
+      0.0,
+      -0.0
+    ],
+    "source": "Trunk_LOD1",
+    "vertices": 180
+  }
+]

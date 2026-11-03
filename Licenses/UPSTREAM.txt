@@ -1,0 +1,3 @@
+https://github.com/bryllim/workout-guide
+Commit: aac599224bb9780305239607ef98540b7e0ce389
+24 unmodified PNG/SVG frames.

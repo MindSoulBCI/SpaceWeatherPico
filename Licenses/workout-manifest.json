@@ -1,0 +1,482 @@
+[
+  {
+    "id": "exercise-plank",
+    "slug": "plank",
+    "name": "Plank",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Core",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "isStretch": false,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/plank/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/plank/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/plank/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-wall-push-up",
+    "slug": "wall-push-up",
+    "name": "Wall Push-up",
+    "exerciseType": "bodyweight_reps",
+    "equipment": "Wall",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "isStretch": false,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/wall-push-up/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/wall-push-up/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/wall-push-up/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-bodyweight-squat",
+    "slug": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "exerciseType": "bodyweight_reps",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Core"
+    ],
+    "isStretch": false,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/bodyweight-squat/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/bodyweight-squat/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/bodyweight-squat/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-cat-cow-stretch",
+    "slug": "cat-cow-stretch",
+    "name": "Cat-Cow Stretch",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Mobility",
+    "secondaryMuscles": [
+      "Back",
+      "Core"
+    ],
+    "isStretch": true,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/cat-cow-stretch/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/cat-cow-stretch/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/cat-cow-stretch/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-kneeling-hip-flexor-stretch",
+    "slug": "kneeling-hip-flexor-stretch",
+    "name": "Kneeling Hip Flexor Stretch",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Hips",
+    "secondaryMuscles": [
+      "Quads",
+      "Mobility"
+    ],
+    "isStretch": true,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/kneeling-hip-flexor-stretch/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/kneeling-hip-flexor-stretch/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/kneeling-hip-flexor-stretch/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-standing-quad-stretch",
+    "slug": "standing-quad-stretch",
+    "name": "Standing Quad Stretch",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Hips",
+      "Mobility"
+    ],
+    "isStretch": true,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/standing-quad-stretch/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/standing-quad-stretch/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/standing-quad-stretch/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-cross-body-shoulder-stretch",
+    "slug": "cross-body-shoulder-stretch",
+    "name": "Cross-Body Shoulder Stretch",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Upper Back",
+      "Mobility"
+    ],
+    "isStretch": true,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/cross-body-shoulder-stretch/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/cross-body-shoulder-stretch/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/cross-body-shoulder-stretch/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "exercise-butterfly-stretch",
+    "slug": "butterfly-stretch",
+    "name": "Butterfly Stretch",
+    "exerciseType": "duration",
+    "equipment": "Bodyweight",
+    "primaryMuscle": "Hips",
+    "secondaryMuscles": [
+      "Groin",
+      "Mobility"
+    ],
+    "isStretch": true,
+    "frames": [
+      {
+        "index": 1,
+        "path": "assets/butterfly-stretch/frame-1.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 2,
+        "path": "assets/butterfly-stretch/frame-2.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "index": 3,
+        "path": "assets/butterfly-stretch/frame-3.svg",
+        "width": 512,
+        "height": 512,
+        "format": "svg",
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ],
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  }
+]

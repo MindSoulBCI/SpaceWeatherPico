@@ -1,0 +1,122 @@
+[
+  {
+    "file": "app/src/main/assets/weather/cloud_layer.glb",
+    "bytes": 7571744,
+    "sha256": "8d966b4e57464bb7d36834f7ba5fa401d7891c42c06b4d15c5867f538e18c69f"
+  },
+  {
+    "file": "app/src/main/assets/weather/cloud_noise.png",
+    "bytes": 7544371,
+    "sha256": "cd752ce0426a99daa792f8a32eb540e315aa45f21c087080bb3947f5a3e79c59"
+  },
+  {
+    "file": "app/src/main/assets/weather/cloudsky_day.glb",
+    "bytes": 176140,
+    "sha256": "881629a0caa963c1e513cb6fa01a193d1a0447d9ac5acfcef16cba66f49fcb03"
+  },
+  {
+    "file": "app/src/main/assets/weather/cloudsky_day.png",
+    "bytes": 74033,
+    "sha256": "15a16e8f23c362b3c350ac811d2702ebedff270a6e227bb4eb5eb6cda3c99c7b"
+  },
+  {
+    "file": "app/src/main/assets/weather/cloudsky_overcast.glb",
+    "bytes": 183940,
+    "sha256": "86c229d02c3968bd3ec221a2347e1fa10e555ffd40290adbf7bcddc27ee3b207"
+  },
+  {
+    "file": "app/src/main/assets/weather/cloudsky_overcast.png",
+    "bytes": 81834,
+    "sha256": "7c842ab9f9be027bd3cb9780058fe6befb455b8c3e3d873bc5a2dfe48ed9bfc2"
+  },
+  {
+    "file": "app/src/main/assets/weather/rain.png",
+    "bytes": 112185,
+    "sha256": "bae0320bd57ad3f3e9cb634ba6be5fda763a25e0f23271bef608bd0f6738c918"
+  },
+  {
+    "file": "app/src/main/assets/weather/rain_layer.glb",
+    "bytes": 113412,
+    "sha256": "a1657fea15121035aa930e79bf2eab8a6052a49849d216b1b95398c9ed7ca840"
+  },
+  {
+    "file": "app/src/main/assets/weather/source_skysphere.glb",
+    "bytes": 19972,
+    "sha256": "0e2683fa5f34ab12919272d4ee55d3597daae5cbeab1d12a3bb5a844d279e9e1"
+  },
+  {
+    "file": "app/src/main/assets/weather/spektr_bolt_0.glb",
+    "bytes": 36148,
+    "sha256": "918c6711789516c6f1efe9814f0991b7385cabde5b6e243e0da6f13fdc373450"
+  },
+  {
+    "file": "app/src/main/assets/weather/spektr_bolt_1.glb",
+    "bytes": 36148,
+    "sha256": "502083acf0cd2ed0ba202ee8b65d5e3aa52ac9b5fcaee0eb5eaf4a1b4b0c1b59"
+  },
+  {
+    "file": "app/src/main/assets/weather/spektr_bolt_2.glb",
+    "bytes": 36144,
+    "sha256": "fa1f852218f42a36565917a7a9c4f34e5558fb408dd423262628438b3db721c2"
+  },
+  {
+    "file": "app/src/main/assets/weather/spektr_bolt_3.glb",
+    "bytes": 36148,
+    "sha256": "3b85711d04239b6962cd8b84ad4a893e25e671ad4f51a7237ba14de8dc7dbfa3"
+  },
+  {
+    "file": "app/src/main/assets/weather/tornado.glb",
+    "bytes": 34268,
+    "sha256": "b20ee166e7e7bc92d2a971ba26d1216574aa737c300bb0f160f7c46481783da0"
+  },
+  {
+    "file": "app/src/main/assets/weather/tornado_ribbons.glb",
+    "bytes": 102776,
+    "sha256": "30b991ede378ad9d263a8ef6e435f4e70f212c2b305af1f89c5b1e30493c8426"
+  },
+  {
+    "file": "app/src/main/assets/weather/tornado_wind.glb",
+    "bytes": 65744,
+    "sha256": "af2bb42a4e81dd352a74cf676875d37c504ede74c00d33ba78420c06e63ef4f3"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_0.glb",
+    "bytes": 19284,
+    "sha256": "3d71695939afb731b0252bcf4b61db0584e3b84a4b81dce4992757883969f270"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_1.glb",
+    "bytes": 22224,
+    "sha256": "7b103aa55235feef6608ff093d130fa774e55868db37715aa7aae3da1127e998"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_2.glb",
+    "bytes": 17184,
+    "sha256": "64e4c15f79deb3c113d09afca3f6f7b4f0bad98917135ff3dcb8028932d0cdef"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_3.glb",
+    "bytes": 19288,
+    "sha256": "c0b0dee80b9f8aa432edf10ecf08931613bb736200267aeb3cc58156eea0a8d4"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_4.glb",
+    "bytes": 19284,
+    "sha256": "0d2cbeeba20a1e0734f39bb582f4b220437dc67b983f6f1fb6b6c8964d447454"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/leaf_5.glb",
+    "bytes": 15932,
+    "sha256": "92d8ec7b577dd0280322466ce557f8e1d49150dd05e8757cc06df31f1c95014b"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/parts.json",
+    "bytes": 1490,
+    "sha256": "9e11feda4a3c238e206980f215eb70702ef770a4e514b3a850573ade799139a9"
+  },
+  {
+    "file": "app/src/main/assets/weather/tree/trunk.glb",
+    "bytes": 9988,
+    "sha256": "777cd15f7df614b2d34df0b545989e6a313762ba6c41edd4fceae1a50cac1242"
+  }
+]
