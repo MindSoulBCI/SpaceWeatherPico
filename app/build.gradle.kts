@@ -10,7 +10,7 @@ android {
     sourceSets["main"].java.srcDir("../third_party/lunar-java/src/main/java")
 
     defaultConfig {
-        applicationId = "com.example.spatialweather.p10282026"
+        applicationId = "cn.mindsoul.weather"
         minSdk = 35
         targetSdk = 35
         versionCode = 1
