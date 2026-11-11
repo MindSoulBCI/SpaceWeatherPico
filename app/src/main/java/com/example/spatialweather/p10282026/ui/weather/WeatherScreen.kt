@@ -30,7 +30,7 @@ import com.example.spatialweather.p10282026.ui.navigation.Windows
   kotlinx.coroutines.delay(300)
   navigator.openWindowContainer(Windows.MOVEMENT,Windows.TAG)
   kotlinx.coroutines.delay(600)
-  if(com.example.spatialweather.p10282026.account.AccountStore.session==null) navigator.openWindowContainer("MindSoulAccount","account")
+  if(com.example.spatialweather.p10282026.account.AccountStore.session==null) navigator.openWindowContainer("MindSoulLogin","login")
   if(opened !is com.pico.spatial.ui.platform.containers.OpenStageResult.Allowed) model.onEvent(WeatherEvent.Immersive(false,"空间天气未打开，可在场景控制中重试"))
  }
  Panel(modifier) {
@@ -39,7 +39,7 @@ import com.example.spatialweather.p10282026.ui.navigation.Windows
   Text(s.weather?.let { "${it.temperature.toInt()}°C · ${s.city.name}" } ?: "—°C · ${s.city.name}",style=PicoTheme.typography.displaySmall,color=PicoTheme.colorScheme.labelPrimary)
   Button(onClick={navigator.openWindowContainer("MindSoulCalendar","calendar")}){Text("查看日历 / 节日")}
   Copy("成都市脑云矩阵科技有限公司 · MindSoul 提供")
-  Button(onClick={navigator.openWindowContainer("MindSoulAccount","account")}){Text(if(com.example.spatialweather.p10282026.account.AccountStore.session==null)"登录 / 注册" else "我的账户")}
+  Button(onClick={navigator.openWindowContainer("MindSoulLogin","login")}){Text(if(com.example.spatialweather.p10282026.account.AccountStore.session==null)"登录 / 注册" else "我的账户")}
   Button(onClick={navigator.openWindowContainer("BrainChannels","bci")}){Text("脑机接口 · 32 通道看板")}
   s.emotion?.let{Copy("${it.title} · ${if(s.emotionLinked)"情绪体验联动" else "手动天气优先"}")}
   Copy("${s.city.name} · ${if(s.manualScene!=null || s.manualNight!=null) "手动场景预览" else "跟随实时天气"}")

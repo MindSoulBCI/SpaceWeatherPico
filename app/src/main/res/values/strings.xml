@@ -1,1 +1,5 @@
-<resources><string name="app_name">MindSoul 空间天气</string><string name="mindsoul_account_api" translatable="false"></string></resources>
+<resources>
+    <string name="app_name">MindSoul 空间天气</string>
+    <string name="mindsoul_account_api" translatable="false">https://mindsoul.cn/forum</string>
+    <string name="mindsoul_app_id" translatable="false">spatial-weather</string>
+</resources>

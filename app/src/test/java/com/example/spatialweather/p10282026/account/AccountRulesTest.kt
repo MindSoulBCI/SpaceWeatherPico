@@ -8,7 +8,10 @@ class AccountRulesTest {
   listOf("", "pilot", "pilot@", "@example.com", "a b@example.com", "a@example.com\nBcc:x@y.com").forEach{assertFalse(AccountRules.validEmail(it))}
  }
  @Test fun registrationPasswordAndVerificationCodeBoundaries(){
-  assertFalse(AccountRules.validPassword("1234567"));assertTrue(AccountRules.validPassword("long password"));assertFalse(AccountRules.validPassword("x".repeat(129)))
+  assertFalse(AccountRules.validPassword("12345"))
+  assertTrue(AccountRules.validPassword("abc123"))
+  assertFalse(AccountRules.validPassword("bad pass"))
+  assertFalse(AccountRules.validPassword("x".repeat(21)))
   assertTrue(AccountRules.validCode("012345"));assertFalse(AccountRules.validCode("12345"));assertFalse(AccountRules.validCode("12 345"));assertFalse(AccountRules.validCode("abcdef"))
  }
  @Test fun profileRestrictsAvatarAndDisplayName(){
@@ -26,6 +29,8 @@ class AccountRulesTest {
   operations.forEach{operation->try{operation();fail("Unconfigured backend must fail closed")}catch(e:AccountFailure){assertTrue(e.message!!.contains("尚未配置"))}}
  }
  @Test fun httpAdapterRejectsInsecureEndpoint(){
-  listOf("http://example.com","https://user:password@example.com").forEach{url->try{HttpAccountService(url);fail("Insecure endpoint accepted")}catch(_:IllegalArgumentException){}}
+  listOf("http://example.com","https://user:password@example.com").forEach{url->
+   try{HttpAccountService(url,"spatial-weather");fail("Insecure endpoint accepted")}catch(_:IllegalArgumentException){}
+  }
  }
 }

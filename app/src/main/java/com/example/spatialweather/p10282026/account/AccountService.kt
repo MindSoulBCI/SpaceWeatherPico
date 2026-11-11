@@ -19,7 +19,8 @@ object AccountRules {
  val avatars=listOf("pilot","orbit","spark","explorer")
  fun email(value:String):String=value.trim()
  fun validEmail(value:String)=value.length<=254&&Regex("^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$").matches(value)
- fun validPassword(value:String)=value.length in 8..128
+ /** 与 space-forum-server 一致：6–20 位字母或数字 */
+ fun validPassword(value:String)=value.length in 6..20 && value.all{it.isLetterOrDigit()}
  fun validCode(value:String)=Regex("^[0-9]{6}$").matches(value)
  fun validProfile(name:String,avatar:String)=name.trim().length in 1..24&&avatar in avatars
 }
